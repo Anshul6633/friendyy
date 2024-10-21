@@ -7,6 +7,8 @@ const CONFIG = {
     btnIntro: 'so to listen more things nice about you to idharrr clicckkk kariyooooooooooo',
     title: '',
     desc: 'currently the best thinggggg about u is you are trying hard asf to get back in the postion you were.There are lot of thing to speak but its not write to speak that thing kabhii karengee baat aram sae aur yaad rakhi khiyo 6months mae internship keliye!',
+   btnYes: 'YESSS its not enough',
+    btnNo: 'its enough',
     question: ' you know what?? ',
     btnReply: 'To jerruuu',
     reply: 'u are kind of best person i have ever met!!',
