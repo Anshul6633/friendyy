@@ -6,7 +6,7 @@ const CONFIG = {
                     `,
     btnIntro: 'so to listen more things nice about you to idharrr clicckkk kariyooooooooooo',
     title: '',
-    desc: 'currently the best thinggggg about u are trying hard asf to get back in the postion you were!!',
+    desc: 'currently the best thinggggg about u is you are trying hard asf to get back in the postion you were!!',
     btnYes: 'YESSS its not enough',
     btnNo: 'its enough',
     question: ' you know what?? ',
